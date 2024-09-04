@@ -4,7 +4,7 @@ I’m a data enthusiast who loves finding the plot twist—whether it’s in a s
 
 
 ## ⚡ Fun Fact
-I once came 4th and won a trophy in a table tennis competition even after losing all my games—because some opponents didn't show up!
+I once came 4th and won a trophy in a table tennis competition even after losing all my games—just because some opponents didn't show up!
 
 
 ## 🌱 Currently Exploring
