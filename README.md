@@ -18,10 +18,4 @@ I once came 4th and won a trophy in a table tennis competition even after losing
 - Enhancing my Tableau skills for data storytelling
 
 
-
-
-
-
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <!-- SVG content goes here -->
-</svg>
+![Wave SVG](https://raw.githubusercontent.com/UsamahAbdulazeez/UsamahAbdulazeez/main/bottom_header.svg)
