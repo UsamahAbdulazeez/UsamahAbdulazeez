@@ -8,10 +8,7 @@ I once came 4th and won a trophy in a table tennis competition even after losing
 
 
 ## 🌱 Currently Exploring
-- **XGBoost, LightGBM**: Advanced machine learning algorithms for performance optimization.
 - **MLflow, FastAPI, Docker**: Tools for deploying and managing machine learning workflows in production.
-- **Time Series Analysis**: Techniques for analyzing time-dependent data like stock prices or sensor data.
-- **A/B Testing, Multi-Armed Bandits**: Experimentation frameworks for improving models and decision-making.
 - **TinyML**: Running machine learning models on microcontrollers for low-power, real-time applications.
 - **AWS Lambda, Google Cloud Functions**: Serverless computing for scalable, event-driven apps.
 - **Apache Flink, Kafka Streams**: Real-time data processing for high-velocity data streams.
